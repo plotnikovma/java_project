@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java EE 6 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../javamail1_4_7/javamail-1.4.7/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
